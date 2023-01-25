@@ -20,7 +20,7 @@ int main()
 
     cout << "\n";
 
-    for (i = 9; i > 0; i--)
+    for (i = 9; i >= 0; i--)
     {
         cout << numeros[i] << endl;
     }
